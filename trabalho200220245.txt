@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Casa para comprar em matão </title>
+    </head>
+    <body>
+
+        <h1> Casa para Comprar em matão SP </h1>
+        <p> casa com 3 quartos, 2 banheiros, sala, cozinha e área de churrasco, piscina e garagem</p>
+        <img src="https://s2.glbimg.com/A9UbOT66bw7kqdr367utaTiPsGk=/620x413/smart/e.glbimg.com/og/ed/f/original/2020/12/21/5-coisas-que-vao-te-fazer-sonhar-com-esta-casa-de-praia-contemporanea-7.jpg" alt="casa">
+    </body>
+    </html>
